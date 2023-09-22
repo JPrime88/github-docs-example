@@ -66,7 +66,7 @@ RuntimeError: This is a custom error message
 
 ## Step 3 - Use Github Flavored Task Lists
 
-Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#references)
+Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
