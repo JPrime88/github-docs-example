@@ -45,13 +45,13 @@ class Person
 end
 ```
 
-- Make note of where the backtick button is located.
+- Make note of where the backtick keyboard key is located.
 - It should appear above the tab key.
 - It may vary based on your keyboard type.
 
-<img width="360px" src="https://github.com/JPrime88/github-docs-example/assets/145236626/3cc47851-2031-4690-9fcd-045fa6e2e0cd" />
+<img width="360px" src=assets/Github-Markdown-Example.jpg />
 
-Good Cloud Engineers use cdeblocks for both code and errors that appear in the console.
+Good Cloud Engineers use codeblocks for both code and errors that appear in the console.
 
 
 
@@ -63,6 +63,69 @@ RuntimeError: This is a custom error message
 ```
 
 > Here is an example of using a codeblock for an error that appears in bash.
+
+When you can, always provide a codeblock instead of a screenshot.
+If you need to take a screenshot, make sure it's not a photo from your phone.
+
+> There are certain cases where it's okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen. If it renders on your computer screen, it should be a screenshot.
+
+## Step 1 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from you laptop, desktop, or phone.
+
+This is not to be confused with taking a photo with your phone.
+
+**DON'T DO THIS**
+
+![A photo on your phone](assets/Phone-Picure-Example.jpg)
+
+This is what a screenshot from your computer should look like
+
+**DO THIS INSTEAD**
+
+![Screenshot Example](assets/Screenshot.png)
+
+To take screenshots on both macOS and Windows, you can use the following hotkeys:
+
+**For macOS:**
+
+1. **Entire screen:**
+- Press 'Command' + Shift + 3
+- The screenshot will be saved to your desktop by default.
+
+2. **Selected Portion:**
+- Press 'Command + Shift + 4'
+- Drag to select the area of the screen you want to capture.
+- The screenshot will be saved to your desktop by default.
+
+3. **Capture a Window:**
+- Press 'Command + Shift + 4', then press 'Spacebar'.
+- Click on the window you want to capture.
+- The screenshot will be saved to your desktop by default.
+
+4. **Capture Touch Bar (if you have one):**
+- Press 'Command + Shift + 6'
+- The screenshot will be saved to your desktop by default.
+
+**For Windows:**
+
+1. **Entire Screen:**
+- Press 'PrtScn' (PrintScreen) key.
+- The screenshot is copied to the clipboard. You can paste it into an application like Paint or Word.
+
+2. **Active Window:**
+- Press 'Alt + PrtScn'
+- The sreenshot of the active window is copied to the clipboard. You can paste it into an application.
+
+3. **Selected Portion using Snip & Sketch (available in recent Windows versions):**
+- Press 'Windows + Shift + S'
+- Your screen will dim, and you can select an area to capture.
+- The screenshot is copied to the clipboard. You can paste it into an application.
+
+4. **Using Snipping Tool (available in older Windows versions):**
+- Search for "Snipping Tool" in the start menu.
+- Open the application and click on "New" to take a screenshot.
+- Save the screenshot.
 
 ## Step 3 - Use Github Flavored Task Lists
 
@@ -95,7 +158,11 @@ You can use the following markdown format to create tables:
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
 
-![Pipe Character on Keyboard](https://github.com/JPrime88/github-docs-example/assets/145236626/f5fa2a22-5b98-4f2d-8ef1-bc9ad76bffdf)
+- Make note of where the pipe keyboard key is located.
+- It should appear above the return or enter key.
+- It may vary based on your keyboard type.
+  
+![Photo on our Pipe Character on our keyboard](assets/Pipe-Character.png)
 
 
 ## External References
